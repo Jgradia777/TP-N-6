@@ -54,7 +54,7 @@ section {background-color: rgba(0,0,0, 0.35);
   margin-top: 2px;
   width: 100vw;
   font-size: 1rem;
-  float: left;}
+  float: left;display: flex;}
 
 .titulo {
   text-decoration: underline;
